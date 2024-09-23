@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyangshu Mazumder</h1>
-<h3 align="center">A creative Data Scientist&Engg and Backend Developer from Bengaluru, Karntaka, India</h3>
+<h3 align="center">A creative Data Scientist and Backend Developer from Bengaluru, Karntaka, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyangshumazumder&label=Profile%20views&color=0e75b6&style=flat" alt="priyangshumazumder" /> </p>
 
